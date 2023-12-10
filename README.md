@@ -1,6 +1,6 @@
 # Ethan Van Gorkom
 ### About Me:
-I am a Back-End Software developer with a deep understanding of Rails Application Development, and I'm also in the process of mastering Python using the Django framework as well as branching into Tensorflow. My goal is to evolve into a Full-Stack developer and contribute to a collaborative team that values skills like communication, analysis, and camaraderie.
+I am a Back-End Software developer with a deep understanding of Rails Application Development, and I'm also in the process of mastering Python using the Django framework as well as branching into some Tensorflow. My goal is to evolve into a Full-Stack developer and contribute to a collaborative team that values skills like communication, analysis, and camaraderie.
 
 My passion for politics fuels my belief in the power of collective effort to build stronger communities and as such I am constantly striving to reach out and ensure that my team and workplace are succeeding with me. As a dedicated learner, I actively seek opportunities for personal and professional growth. I thrive in workplaces that prioritize excellence, teamwork, research, and relationship-building. I am currently exploring opportunities to expand my skill set further, paving the way for future success.
 
@@ -28,6 +28,15 @@ Feel free to reach out and I would be happy to chat over LinkedIn!
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 15px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" height="50"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 15px" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgre" height="50"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="50"></a>
+</div>
+
+
+## Currently Learning
+<div align="center">
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" height="50" /></a>
+<a href="https://react.dev/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" /></a>
+<a href="https://nodejs.org/en" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node JS" height="50" /></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Django" height="50" /></a>
 </div>
 
 ---
