@@ -25,6 +25,7 @@ Feel free to reach out and I would be happy to chat over LinkedIn!
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://www.heroku.com/" target="_blank"><img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku" height="50"></a>
+<a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="Amazon Web Services" height="50" /></a>
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 15px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" height="50"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 15px" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgre" height="50"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="50"></a>
