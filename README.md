@@ -1,8 +1,8 @@
 # Ethan Van Gorkom
 ### About Me:
-I am a Back-End Software developer with a deep understanding of Rails Application Development, and I'm also in the process of mastering Python using the Django framework as well as branching into some Tensorflow. My goal is to evolve into a Full-Stack developer and contribute to a collaborative team that values skills like communication, analysis, and camaraderie.
+I am a Back-End Software developer with a deep understanding of Rails Application Development, and I'm also in the process of mastering Python using the Django framework as well as branching into some Tensorflow on the side. My goal is to evolve into a Full-Stack developer and contribute to a collaborative team that values skills like communication, analysis, and camaraderie.
 
-My passion for politics fuels my belief in the power of collective effort to build stronger communities and as such I am constantly striving to reach out and ensure that my team and workplace are succeeding with me. As a dedicated learner, I actively seek opportunities for personal and professional growth. I thrive in workplaces that prioritize excellence, teamwork, research, and relationship-building. I am currently exploring opportunities to expand my skill set further, paving the way for future success.
+As a former graduate student of Political Science my passion for politics fuels my belief in the power of collective effort to build stronger communities and as such I am constantly striving to reach out and ensure that my team and workplace are succeeding with me. As a dedicated learner, I actively seek opportunities for personal and professional growth. I thrive in workplaces that prioritize excellence, teamwork, research, and relationship-building. I am currently exploring opportunities to expand my skill set further, paving the way for future success.
 
 Feel free to reach out and I would be happy to chat over LinkedIn!
 
