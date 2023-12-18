@@ -29,7 +29,7 @@ Feel free to reach out and I would be happy to chat over LinkedIn!
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 15px" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgre" height="50"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="50"></a>
 </div>
-
+   
 
 ## Currently Learning
 <div align="center">
