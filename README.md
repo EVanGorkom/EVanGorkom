@@ -17,6 +17,7 @@ Feel free to reach out and I would be happy to chat over LinkedIn!
 <a href="https://rubyonrails.org/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="Ruby on Rails" height="50" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" /></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" height="50" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" height="50" /></a>
 <!-- <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" height="50" /></a> -->
 <!-- <a href="https://spring.io/projects/spring-framework" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="50" /></a> -->
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50" /></a>
@@ -33,7 +34,6 @@ Feel free to reach out and I would be happy to chat over LinkedIn!
 
 ## Currently Learning
 <div align="center">
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" height="50" /></a>
 <a href="https://react.dev/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" /></a>
 <a href="https://nodejs.org/en" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node JS" height="50" /></a>
 <a href="https://www.java.com/en/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JAVA" height="50" /></a>
@@ -44,9 +44,7 @@ Feel free to reach out and I would be happy to chat over LinkedIn!
 
 <!-- # What I'm Currently Working On
 
-Tensorflow
 Azure
-JavaScript
 Node JS
 TypeScript
 MONGO DB
@@ -54,7 +52,6 @@ My SQL
 Redis
 JAVA (Spring)
 Docer
-Python
 Kubernetes
 
 --- -->
