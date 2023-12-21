@@ -10,8 +10,8 @@ Feel free to reach out and I would be happy to chat over LinkedIn!
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   
 ---
-
-# Languages, Frameworks, and Tools
+# Tech Stack
+### Languages and Frameworks 
 <div align="center">
 <a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/480px-Ruby_logo.svg.png" alt="Ruby logo" height="50" /></a>
 <a href="https://rubyonrails.org/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="Ruby on Rails logo" height="50" /></a>
@@ -21,6 +21,10 @@ Feel free to reach out and I would be happy to chat over LinkedIn!
 <!-- <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow logo" height="50" /></a> -->
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 logo" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 logo" height="50" /></a>
+</div>
+
+### Tools
+<div align="center">
 <a href="https://github.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git logo" height="50" /></a>
 <a href="https://www.heroku.com/" target="_blank"><img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku logo" height="50"></a>
 <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="Amazon Web Services logo" height="50" /></a>
@@ -31,7 +35,7 @@ Feel free to reach out and I would be happy to chat over LinkedIn!
 </div>
    
 
-## Currently Learning
+### Currently Learning
 <div align="center">
 <a href="https://react.dev/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React logo" height="50" /></a>
 <a href="https://nodejs.org/en" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node JS logo" height="50" /></a>
