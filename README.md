@@ -1,8 +1,8 @@
 # Ethan Van Gorkom
 ### About Me:
-I am a Back-End Software developer with a deep understanding of Rails Application Development, and I'm also in the process of mastering Python using the Django framework as well as branching into some Tensorflow on the side. My goal is to evolve into a Full-Stack developer and contribute to a collaborative team that values skills like communication, analysis, and camaraderie.
+As a Back-End Software Developer, I specialize in Rails Application Development while actively mastering Python/Django framework. I'm currently expanding my skill set with a focus on JavaScript and React as I am driven by the goal of evolving into a Full-Stack developer. I'm interested in contributing to a collaborative team who is grounded in values such as effective communication, critical analysis, and camaraderie.
 
-As a former graduate student of Political Science my passion for politics fuels my belief in the power of collective effort to build stronger communities and as such I am constantly striving to reach out and ensure that my team and workplace are succeeding with me. As a dedicated learner, I actively seek opportunities for personal and professional growth. I thrive in workplaces that prioritize excellence, teamwork, research, and relationship-building. I am currently exploring opportunities to expand my skill set further, paving the way for future success.
+Fueled by a passion for politics, I believe in the transformative power of collective effort to build stronger communities. Therefore my proactive approach to team success involves constant outreach, ensuring a thriving workplace. If a team member doesn't understand something, I take the initiative and time to find resources and personally assist with their understanding. As a dedicated learner myself, I'm always seeking opportunities for personal and professional growth. I am currently exploring opportunities to further expand my skill set by teaching myself languages and frameworks that will help me and my future teams succeed.
 
 Feel free to reach out and I would be happy to chat over LinkedIn!
 
@@ -18,7 +18,6 @@ Feel free to reach out and I would be happy to chat over LinkedIn!
 <a href="https://www.python.org/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python logo" height="50" /></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django logo" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript logo" height="50" /></a>
-<!-- <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow logo" height="50" /></a> -->
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 logo" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 logo" height="50" /></a>
 </div>
