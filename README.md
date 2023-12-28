@@ -1,4 +1,4 @@
-# Ethan Van Gorkom 
+# Ethan Van Gorkom
 ### About Me:
 As a Back-End Software Developer, I specialize in Rails Application Development while actively mastering Python/Django framework. I'm currently expanding my skill set with a focus on JavaScript and React as I am driven by the goal of evolving into a Full-Stack developer. I'm interested in contributing to a collaborative team who is grounded in values such as effective communication, critical analysis, and camaraderie.
 
