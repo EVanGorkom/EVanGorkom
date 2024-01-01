@@ -40,8 +40,8 @@ Feel free to reach out and I would be happy to chat over LinkedIn!
 <div align="center">
 <a href="https://react.dev/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React logo" height="50" /></a>
 <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap logo" height="50" /></a>
-<a href="https://www.java.com/en/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JAVA logo" height="50" /></a>
-<a href="https://spring.io/projects/spring-framework" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring logo" height="50" /></a>
+<!-- <a href="https://www.java.com/en/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JAVA logo" height="50" /></a> -->
+<!-- <a href="https://spring.io/projects/spring-framework" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring logo" height="50" /></a> -->
 <!-- <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow logo" height="50" /></a> -->
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma logo" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" height="50" /></a>
