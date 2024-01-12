@@ -8,7 +8,10 @@ Feel free to reach out and I would be happy to chat over LinkedIn!
 
 <a href="https://linkedin.com/in/EVanGorkom" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  
+
+<!-- <a href="https://terminal.turing.edu/alumni/2054-ethan-van-gorkom" target="_blank">
+<img src=https://assets.turing.edu/favicon.ico alt=Turing logo style="margin-bottom: 5px;" /> -->
+
 ---
 # Tech Stack
   ## Languages and Frameworks: 
