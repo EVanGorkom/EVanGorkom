@@ -1,8 +1,10 @@
 # Ethan Van Gorkom
 ### About Me:
-As a Back-End Software Developer, I specialize in Rails Application Development while actively mastering Python/Django framework. I'm currently expanding my skill set with a focus on JavaScript and React as I am driven by the goal of evolving into a Full-Stack developer. I'm interested in contributing to a collaborative team who is grounded in values such as effective communication, critical analysis, and camaraderie.
+Hey there! I'm a Back-End Software Engineer who's passionate about using Ruby/Rails and Python/Django for Application Development. I'm also currently diving into JavaScript/React to begin my journy to become a Full-Stack developer. 
 
-Fueled by a passion for politics, I believe in the transformative power of collective effort to build stronger communities. Therefore my proactive approach to team success involves constant outreach, ensuring a thriving workplace. If a team member doesn't understand something, I take the initiative and time to find resources and personally assist with their understanding. As a dedicated learner myself, I'm always seeking opportunities for personal and professional growth. I am currently exploring opportunities to further expand my skill set by teaching myself languages and frameworks that will help me and my future teams succeed.
+Throughout my 10 years of experience, I've always had a strong focus on education and service-oriented work. I have a ton of knowledge and plenty of soft skills to contribute to a team-oriented environment. I'm really excited about finding a collaborative team that values effective communication, critical thinking, and a sense of camaraderie. With a background in Political Science, I truly believe in the power of teamwork to create stronger communities and a better future.
+
+I take a proactive approach to ensure team success by constantly reaching out and making sure everyone feels supported. If someone on the team is struggling, I'm always there to find resources and personally assist them in any way I can. I'm also a dedicated learner myself, always looking for opportunities to grow both personally and professionally. Right now, I'm actively seeking opportunities to expand my skill set even further. I'm teaching myself new languages and frameworks that will not only benefit me but also help my future teams thrive.
 
 Feel free to reach out and I would be happy to chat over LinkedIn!
 
