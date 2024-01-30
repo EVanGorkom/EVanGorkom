@@ -1,8 +1,8 @@
 # Ethan Van Gorkom
 ### About Me:
-Hey there! I'm a Back-End Software Engineer who's passionate about using Ruby/Rails and Python/Django for Application Development. I'm also currently diving into JavaScript/React to begin my journy to become a Full-Stack developer. 
+Hey there! I'm a Back-End Software Engineer who's passionate about using Ruby/Rails and Python/Django for Application Development. I'm also currently diving into JavaScript/React to begin my journey to become a Full-Stack developer. 
 
-Throughout my 10 years of experience, I've always had a strong focus on education and service-oriented work. I have a ton of knowledge and plenty of soft skills to contribute to a team-oriented environment. I'm really excited about finding a collaborative team that values effective communication, critical thinking, and a sense of camaraderie. With a background in Political Science, I truly believe in the power of teamwork to create stronger communities and a better future.
+Throughout my 10 years of experience, I've always had a strong focus on education and service-oriented work. I have a ton of knowledge and plenty of soft skills to contribute to a team-oriented environment. I'm really excited about finding a collaborative team that values effective communication, critical thinking, and a sense of camaraderie. With a background in Political Science, I believe in the power of teamwork to create stronger communities and a better future.
 
 I take a proactive approach to ensure team success by constantly reaching out and making sure everyone feels supported. If someone on the team is struggling, I'm always there to find resources and personally assist them in any way I can. I'm also a dedicated learner myself, always looking for opportunities to grow both personally and professionally. Right now, I'm actively seeking opportunities to expand my skill set even further. I'm teaching myself new languages and frameworks that will not only benefit me but also help my future teams thrive.
 
@@ -13,7 +13,12 @@ Feel free to reach out and I would be happy to chat over LinkedIn!
 
 <!-- <a href="https://terminal.turing.edu/alumni/2054-ethan-van-gorkom" target="_blank">
 <img src=https://assets.turing.edu/favicon.ico alt=Turing logo style="margin-bottom: 5px;" /> -->
+---
+# Current Projects
+<a href="https://github.com/Market-Next-Door" target="_blank">Market Next Door</a>
 
+<a href="https://github.com/QuestQuill" target="_blank">Quest Quill</a>
+  
 ---
 # Tech Stack
   ## Languages and Frameworks: 
