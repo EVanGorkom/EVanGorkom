@@ -44,6 +44,7 @@ Feel free to reach out and I would be happy to chat over LinkedIn!
 <!-- <a href="https://docs.pytest.org/en/7.4.x/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest logo" height="50"></a> -->
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 15px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman logo" height="50"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 15px" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgre logo" height="50"></a>
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma logo" height="50" /></a>
 <!-- <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code logo" height="50"></a> -->
 </div>
 <br/>
@@ -56,7 +57,6 @@ Feel free to reach out and I would be happy to chat over LinkedIn!
 <!-- <a href="https://www.java.com/en/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JAVA logo" height="50" /></a> -->
 <!-- <a href="https://spring.io/projects/spring-framework" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring logo" height="50" /></a> -->
 <!-- <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow logo" height="50" /></a> -->
-<!-- <a href="https://www.figma.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma logo" height="50" /></a> -->
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker logo" height="50" /></a>
 </div>
