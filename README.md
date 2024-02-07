@@ -2,7 +2,7 @@
 ### About Me:
 Hey there! I'm a Back-End Software Engineer who's passionate about using Ruby/Rails and Python/Django for Application Development. I'm also currently diving into JavaScript/React to begin my journey to become a Full-Stack developer. 
 
-Throughout my 10 years of experience, I've always had a strong focus on education and service-oriented work. I have a ton of knowledge and plenty of soft skills to contribute to a team-oriented environment. I'm really excited about finding a collaborative team that values effective communication, critical thinking, and a sense of camaraderie. With a background in Political Science, I believe in the power of teamwork to create stronger communities and a better future.
+Throughout my 10 years of experience, I've always had a strong focus on education and service-oriented work. I have learned a lot from many different fields and have aquired plenty of soft skills to contribute to a team-oriented environment. I'm really excited about finding a collaborative team that values effective communication, critical thinking, and a sense of camaraderie. With a background in Political Science, I believe in the power of teamwork to create stronger communities for a better future.
 
 I take a proactive approach to ensure team success by constantly reaching out and making sure everyone feels supported. If someone on the team is struggling, I'm always there to find resources and personally assist them in any way I can. I'm also a dedicated learner myself, always looking for opportunities to grow both personally and professionally. Right now, I'm actively seeking opportunities to expand my skill set even further. I'm teaching myself new languages and frameworks that will not only benefit me but also help my future teams thrive.
 
@@ -63,6 +63,8 @@ Feel free to reach out and I would be happy to chat over LinkedIn!
 </div>
 <br/>
 
+I am currently enrolled in a Udemy course on PHP in order to enhance my skills for working on an open source project with Open Austin. This project aims to improve the Austin Public Library website, which is currently facing technical issues and requires scalability for future growth. My goal is to gain a deeper understanding of the existing code base and assist with debugging the system. By learning PHP, I hope to identify necessary changes and contribute to the development of the front-end team, as they seek to shift the site away from it's current monolithic structure and into a SOA using technologies like JavaScript and React.
+
 ---
 
 <!-- # What I'm Currently Working On
@@ -90,6 +92,6 @@ Kubernetes
 
 </td></tr></table>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=MylesNottingham&&style=flat-square)
+<!--- ![Profile views counter](https://komarev.com/ghpvc/?username=MylesNottingham&&style=flat-square) --->
 
 <br />
