@@ -21,7 +21,7 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 <a href="https://github.com/Market-Next-Door" target="_blank">Market Next Door</a>
 
 <a href="https://github.com/QuestQuill" target="_blank">Quest Quill</a>
-  
+    
 ---
 # Tech Stack
   ## Languages and Frameworks: 
