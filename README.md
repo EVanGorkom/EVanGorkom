@@ -9,7 +9,7 @@ I take a proactive approach to ensure my team's success by constantly reaching o
 Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 
 <a href="https://linkedin.com/in/EVanGorkom" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 <a href="mailto:ethan.vangorkom@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
@@ -18,9 +18,16 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 <img src=https://assets.turing.edu/favicon.ico alt=Turing logo style="margin-bottom: 5px;" /> -->
 ---
 # Current Projects
-<a href="https://github.com/Market-Next-Door" target="_blank">Market Next Door</a>
 
-<a href="https://github.com/QuestQuill" target="_blank">Quest Quill</a>
+<h3>
+<a href="https://github.com/Pod-Tracking" target="_blank"><img style="margin: 15px" src="https://avatars.githubusercontent.com/u/160537538?s=200&v=4" alt="Pod Tracking Logo" height="30" /> - Pod Tracking</a>
+</h3>
+
+<h3>
+<a href="https://github.com/Market-Next-Door" target="_blank"><img style="margin: 15px" src="https://avatars.githubusercontent.com/u/152336455?s=200&v=4" alt="Market Next Door logo" height="30" /> - Market Next Door</a>
+</h3>
+
+<!-- <a href="https://github.com/QuestQuill" target="_blank">Quest Quill</a> -->
     
 ---
 # Tech Stack
@@ -96,6 +103,6 @@ Kubernetes
 
 </td></tr></table>
 
-<!--- ![Profile views counter](https://komarev.com/ghpvc/?username=MylesNottingham&&style=flat-square) --->
+<!-- ![Profile views counter](https://komarev.com/ghpvc/?username=MylesNottingham&&style=flat-square) -->
 
 <br />
