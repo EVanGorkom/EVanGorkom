@@ -7,7 +7,7 @@ Throughout my 10 years of experience, I've always had a strong focus on educatio
 I take a proactive approach to ensure my team's success by constantly reaching out and making sure everyone feels supported. If someone on the team is struggling, I'm always there to find resources and personally assist them in any way I can. I'm also a dedicated learner myself, always looking for opportunities to grow both personally and professionally. Right now, I'm actively seeking opportunities to expand my skill set even further. I'm teaching myself new languages and frameworks that will not only benefit me, but also help my future teams thrive.
 
 Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
-
+  
 <a href="https://linkedin.com/in/EVanGorkom" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 <a href="mailto:ethan.vangorkom@gmail.com">
