@@ -28,7 +28,7 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 </h3>
 
 <h3>
-<a href="https://github.com/QuestQuill" target="_blank><img style="margin: 15px" src="https://avatars.githubusercontent.com/u/149438618?v=4" alt="Quest Quill logo" height="30" /> - Quest Quill</a>
+<a href="https://github.com/QuestQuill" target="_blank"><img style="margin: 15px" src="https://avatars.githubusercontent.com/u/149438618?v=4" alt="Quest Quill logo" height="30" /> - Quest Quill</a>
 </h3>
 
 ---
