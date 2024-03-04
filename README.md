@@ -27,8 +27,10 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 <a href="https://github.com/Market-Next-Door" target="_blank"><img style="margin: 15px" src="https://avatars.githubusercontent.com/u/152336455?s=200&v=4" alt="Market Next Door logo" height="30" /> - Market Next Door</a>
 </h3>
 
-<!-- <a href="https://github.com/QuestQuill" target="_blank">Quest Quill</a> -->
-    
+<h3>
+<a href="https://github.com/QuestQuill" target="_blank><img style="margin: 15px" src="https://avatars.githubusercontent.com/u/149438618?v=4" alt="Quest Quill logo" height="30" /> - Quest Quill</a>
+</h3>
+
 ---
 # Tech Stack
   ## Languages and Frameworks: 
