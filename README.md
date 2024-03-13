@@ -55,6 +55,7 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma logo" height="50" /></a>
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman logo" height="50"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 15px" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgre logo" height="50"></a>
+<a href="https://dev.mysql.com/doc/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL logo" height="50"></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker logo" height="50" /></a>
 <!-- <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code logo" height="50"></a> -->
 </div>
@@ -63,8 +64,8 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
   ## Currently Learning:
 <div align="center">
 
-<a href="https://react.dev/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C sharp logo" height="50" /></a>
-<a href="https://react.dev/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="C sharp logo" height="50" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C sharp logo" height="50" /></a>
+<a href="https://docs.unity.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity logo" height="50" /></a>
 <a href="https://react.dev/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React logo" height="50" /></a>
 <!-- <a href="https://expressjs.com/" target="_blank"><img style="margin: 15px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="ExpressJS logo" height="50" /></a> -->
 <!-- <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" height="50" /></a> -->
@@ -80,7 +81,6 @@ By learning PHP, I hope to identify the source of the bugs, suggest changes, and
 
 ### Databases ###
 mongoDB        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-MySQL          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
 ### Languages ###
 React        3  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -114,6 +114,8 @@ Kubernetes      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/ic
 Oracle          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 Graphql         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
 
+#Acquired Skills From Lists#
+MySQL          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
 --- -->
 
