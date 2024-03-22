@@ -1,3 +1,7 @@
+<img src="https://gist.github.com/assets/132889569/1c279d4f-7584-455f-9da1-ee89b8c58281">
+![4](https://gist.github.com/assets/132889569/1c279d4f-7584-455f-9da1-ee89b8c58281)
+
+
 # Ethan Van Gorkom
 ### About Me:
 Hey there! I'm a Back-End Software Engineer who's passionate about using Ruby on Rails and Python with the Django framework for Application Development. I'm also currently diving into JavaScript with React to begin my journey to become a Full-Stack developer. 
