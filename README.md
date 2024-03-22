@@ -1,5 +1,5 @@
-<img src="https://gist.github.com/assets/132889569/1c279d4f-7584-455f-9da1-ee89b8c58281">
-![4](https://gist.github.com/assets/132889569/1c279d4f-7584-455f-9da1-ee89b8c58281)
+
+![EVanGorkom Background](https://github.com/EVanGorkom/EVanGorkom/assets/132889569/31f9ab8a-e670-4d5f-9c8e-5a433d66b78a)
 
 
 # Ethan Van Gorkom
