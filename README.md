@@ -60,7 +60,8 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 15px" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgre logo" height="50"></a>
 <a href="https://dev.mysql.com/doc/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL logo" height="50"></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker logo" height="50" /></a>
-<!-- <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code logo" height="50"></a> -->
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code logo" height="50"></a>
+<a href="https://visualstudio.microsoft.com/#vs-section" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio logo" height="50"></a>
 </div>
 <br/>
 
