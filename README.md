@@ -77,7 +77,7 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 <br/>
 
 I am currently enrolled in a Udemy course on PHP to enhance my skills while working on an open source project with Open Austin. This project aims to improve the Austin Public Library website, which is currently facing technical issues in its PHP/Laravel monolith, and requires scalability for future growth. My goal is to gain a deeper understanding of the existing code base and assist with debugging the system. 
-By learning PHP, I hope to identify the source of the bugs, suggest changes, and contribute to the development of the front-end team, while they seek to shift the site away from it's current monolithic structure into a Service-Oriented Architecture (SOA), using technologies like JavaScript and React.
+By learning PHP/Laravel and Docker, I hope to identify the source of the bugs, suggest changes, and contribute to the development of the front-end team, while they seek to shift the site away from it's current monolithic structure into a Service-Oriented Architecture (SOA), using technologies like JavaScript and React.
 
 ---
 
