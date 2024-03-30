@@ -139,6 +139,5 @@ MySQL        *  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/ic
 </td></tr></table>
 
 <!-- ![Profile views counter](https://komarev.com/ghpvc/?username=MylesNottingham&&style=flat-square) -->
-![Profile views counter](https://komarev.com/ghpvc/?username=MylesNottingham&&style=flat-square)
 
 <br />
