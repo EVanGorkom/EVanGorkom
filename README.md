@@ -1,7 +1,7 @@
 
 <!-- ![EVanGorkom Static Background](https://github.com/EVanGorkom/EVanGorkom/assets/132889569/31f9ab8a-e670-4d5f-9c8e-5a433d66b78a) -->
 
-![EVanGorkom Background Dynamic Red Gif](https://github.com/EVanGorkom/red_gif/blob/main/red%20video%20background.gif)
+![EVanGorkom Background Dynamic Red Gif](https://github.com/EVanGorkom/red_gif/blob/main/red.gif)
 
 
 ### About Me:
