@@ -1,8 +1,6 @@
 
 <!-- ![EVanGorkom Static Background](https://github.com/EVanGorkom/EVanGorkom/assets/132889569/31f9ab8a-e670-4d5f-9c8e-5a433d66b78a) -->
-
-![EVanGorkom Background Dynamic Red Gif](https://github.com/EVanGorkom/red_gif/blob/main/red_dynamic_text.gif)
-
+<img src="https://github.com/EVanGorkom/red_gif/blob/main/red_dynamic_text.gif" alt="EVanGorkom Background Dynamic Red" height="450" />
 
 ### About Me:
 Hey there! I'm a Back-End Software Engineer who's passionate about using Ruby on Rails and Python with the Django framework for Application Development. I'm also currently diving into JavaScript with React to begin my journey to become a Full-Stack developer. 
