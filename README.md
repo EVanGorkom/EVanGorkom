@@ -55,7 +55,7 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 <a href="https://www.heroku.com/" target="_blank"><img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku logo" height="50"></a>
 <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon Web Services logo" height="50" /></a>
 <a href="https://rspec.info/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" alt="RSpec logo" height="50"></a>
-<a href="https://docs.pytest.org/en/7.4.x/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest logo" height="50"></a>
+<a href="https://docs.pytest.org/en/7.4.x/" target="_blank"><img style="margin: 15px" src="https://github.com/EVanGorkom/EVanGorkom/assets/132889569/01a7d2b1-7134-4053-ac18-e888839f8bf9" alt="Pytest logo" height="50"></a>
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma logo" height="50" /></a>
 <a href="https://insomnia.rest/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" alt="Insomnia logo" height="50"></a>
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman logo" height="50"></a>
