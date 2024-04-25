@@ -3,7 +3,7 @@
 <img src="https://github.com/EVanGorkom/red_gif/blob/main/red_dynamic_text.gif" alt="EVanGorkom Background Dynamic Red" height="400" />
 
 ### About Me:
-Hey there! I'm a Back-End Software Engineer who's passionate about using Ruby on Rails and Python with the Django framework for Application Development. I'm also currently diving into JavaScript with React to begin my journey to become a Full-Stack developer. 
+Hey there! I'm a Software Engineer who's passionate about using Python with the Django framework for Application Development. I'm also currently diving into JavaScript with React to begin my journey to become a Full-Stack developer. 
 
 Throughout my 10 years of experience, I've always had a strong focus on education and service-oriented work. I have learned a lot from many different fields and have aquired plenty of soft skills to contribute to a team-oriented environment. I'm really excited about finding a collaborative team that values effective communication, critical thinking, and a sense of camaraderie. With a background in Political Science, I believe in the power of teamwork to create stronger communities and now, improved software, for a better future.
  
