@@ -1,6 +1,8 @@
 
 <!-- ![EVanGorkom Static Background](https://github.com/EVanGorkom/EVanGorkom/assets/132889569/31f9ab8a-e670-4d5f-9c8e-5a433d66b78a) -->
-<img src="https://github.com/EVanGorkom/red_gif/blob/main/red_dynamic_text.gif" alt="EVanGorkom Background Dynamic Red" height="400" />
+<div align=center>
+<img src="https://github.com/EVanGorkom/red_gif/blob/main/red_dynamic_text.gif" alt="The background is a short video of red lines criss-crossing in the background while the text 'Ethan Van Gorkom, Software Engineer' prints ontop of the video." height="400" />
+</div>
 
 ### About Me:
 Hey there! I'm a Software Engineer who's passionate about using Python with the Django framework for Application Development. I'm also currently diving into JavaScript with React to begin my journey to become a Full-Stack developer. 
@@ -42,6 +44,7 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img style="margin: 15px" src="https://github.com/EVanGorkom/EVanGorkom/assets/132889569/bbb455d2-6400-48b9-9e1c-0ec97d06e766" alt="Flask logo" height="50" /></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django logo" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript logo" height="50" /></a>
+<a href="https://react.dev/learn" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React logo" height="50" /></a>
 <a href="https://nodejs.org/en" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node JS logo" height="50" /></a>
 <a href="https://www.php.net/docs.php" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP logo" height="55" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 logo" height="50" /></a>
@@ -59,6 +62,7 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma logo" height="50" /></a>
 <a href="https://insomnia.rest/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" alt="Insomnia logo" height="50"></a>
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman logo" height="50"></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker logo" height="50" /></a> 
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 15px" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgre logo" height="50"></a>
 <a href="https://dev.mysql.com/doc/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL logo" height="50"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code logo" height="50"></a>
@@ -71,16 +75,16 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 
 <!-- <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C sharp logo" height="50" /></a> -->
 <!-- <a href="https://docs.unity.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity logo" height="50" /></a> -->
-<a href="https://laravel.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel logo" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker logo" height="50" /></a> 
-<a href="https://react.dev/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React logo" height="50" /></a>
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 15px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="ExpressJS logo" height="50" /></a> 
-<!-- <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" height="50" /></a> -->
+<!-- <a href="https://laravel.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel logo" height="50" /></a> -->
+<!-- <a href="https://expressjs.com/" target="_blank"><img style="margin: 15px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="ExpressJS logo" height="50" /></a> -->
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript logo" height="50" /></a> 
+<a href="https://getbootstrap.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap logo" height="50" /></a> 
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" height="50" /></a> 
 </div>
 <br/>
 
-I am currently enrolled in a Udemy course on PHP to enhance my skills while working on an open source project with Open Austin. This project aims to improve the Austin Public Library website, which is currently facing technical issues in its PHP/Laravel monolith, and requires scalability for future growth. My goal is to gain a deeper understanding of the existing code base and assist with debugging the system. 
-By learning PHP/Laravel and Docker, I hope to identify the source of the bugs, suggest changes, and contribute to the development of the front-end team, while they seek to shift the site away from it's current monolithic structure into a Service-Oriented Architecture (SOA), using technologies like JavaScript and React.
+<!-- I am currently enrolled in a Udemy course on PHP to enhance my skills while working on an open source project with Open Austin. This project aims to improve the Austin Public Library website, which is currently facing technical issues in its PHP/Laravel monolith, and requires scalability for future growth. My goal is to gain a deeper understanding of the existing code base and assist with debugging the system. 
+By learning PHP/Laravel and Docker, I hope to identify the source of the bugs, suggest changes, and contribute to the development of the front-end team, while they seek to shift the site away from it's current monolithic structure into a Service-Oriented Architecture (SOA), using technologies like JavaScript and React. -->
 
 ---
 
@@ -110,14 +114,12 @@ Laravel      *  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/ic
 
 #Tools#
 CircleCI        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/circleci/circleci-plain.svg" />
-Figma           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 Pandas          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
 Bootstrap       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 Tailwind        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 Vitejs          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
 Azure           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 Redis           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-Docker       *  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 Kubernetes      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 Oracle          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 Graphql         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
@@ -125,6 +127,10 @@ Graphql         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/ic
 #Acquired Skills From Lists#
 MySQL        *  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 Flask           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+Docker       *  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+Figma        *  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
+
 
 --- -->
 
@@ -139,6 +145,6 @@ Flask           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/ic
 
 </td></tr></table>
 
-<!-- ![Profile views counter](https://komarev.com/ghpvc/?username=MylesNottingham&&style=flat-square) -->
+![Profile views counter](https://komarev.com/ghpvc/?username=EVanGorkom&&style=for-the-badge&abbreviated=true&base=250)
 
 <br />
