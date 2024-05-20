@@ -30,9 +30,6 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 <a href="https://github.com/Market-Next-Door" target="_blank"><img style="margin: 15px" src="https://avatars.githubusercontent.com/u/152336455?s=200&v=4" alt="Market Next Door logo" height="30" /> - Market Next Door</a>
 </h3>
 
-<!-- <h3>
-<a href="https://github.com/QuestQuill" target="_blank"><img style="margin: 15px" src="https://avatars.githubusercontent.com/u/149438618?v=4" alt="Quest Quill logo" height="30" /> - Quest Quill</a>
-</h3> -->
 
 ---
 # Tech Stack
@@ -75,8 +72,6 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 
 <!-- <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C sharp logo" height="50" /></a> -->
 <!-- <a href="https://docs.unity.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity logo" height="50" /></a> -->
-<!-- <a href="https://laravel.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel logo" height="50" /></a> -->
-<!-- <a href="https://expressjs.com/" target="_blank"><img style="margin: 15px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="ExpressJS logo" height="50" /></a> -->
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript logo" height="50" /></a> 
 <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap logo" height="50" /></a> 
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" height="50" /></a> 
@@ -129,8 +124,6 @@ MySQL        *  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/ic
 Flask           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
 Docker       *  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 Figma        *  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-
-
 
 --- -->
 
