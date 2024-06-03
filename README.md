@@ -3,7 +3,7 @@
 <div align=center>
 <img src="https://github.com/EVanGorkom/red_gif/blob/main/red_dynamic_text.gif" alt="The background is a short video of red lines criss-crossing in the background while the text 'Ethan Van Gorkom, Software Engineer' prints ontop of the video." height="400" />
 </div>
- 
+
 ### About Me:
 Hey there! I'm a Software Engineer who's passionate about using Python with the Django framework for Application Development. I'm also currently diving into JavaScript with React to begin my journey to become a Full-Stack developer. 
 
