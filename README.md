@@ -52,6 +52,7 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
   ## Tools:
 <div align="center">
 <a href="https://github.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git logo" height="50" /></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Atlassian Jira logo" height="50" /></a>
 <a href="https://www.heroku.com/" target="_blank"><img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku logo" height="50"></a>
 <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon Web Services logo" height="50" /></a>
 <a href="https://rspec.info/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" alt="RSpec logo" height="50"></a>
@@ -62,6 +63,7 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker logo" height="50" /></a> 
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 15px" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgre logo" height="50"></a>
 <a href="https://dev.mysql.com/doc/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL logo" height="50"></a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="PyCharm logo" height="50"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code logo" height="50"></a>
 <a href="https://visualstudio.microsoft.com/#vs-section" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio logo" height="50"></a>
 </div>
@@ -118,9 +120,6 @@ Redis           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/ic
 Kubernetes      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 Oracle          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 Graphql         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
-
 
 #Acquired Skills From Lists#
 MySQL        *  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
