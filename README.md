@@ -5,7 +5,7 @@
 </div> -->
 
 ### About Me:
-Hey there! I'm a Software Engineer who's passionate about using Python with the Django framework for Application Development. I primarily work with Backend systems, but have also dabbled in some Frontend animations and the like.
+Hey there! I'm a Software Engineer who's passionate about using Python with the Django framework for Application Development. I primarily work with Backend systems, but I'm comfortable working in Frontend development as well.
 
 Throughout my 10 years of experience, I've always had a strong focus on education and service-oriented work. I have learned a lot from many different fields and have aquired plenty of soft skills to contribute to a team-oriented environment. I'm really excited about finding a collaborative team that values effective communication, critical thinking, and a sense of camaraderie. With a background in Political Science, I believe in the power of teamwork to create stronger communities and now, improved software, for a better future.
  
