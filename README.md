@@ -51,7 +51,7 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 
   ## Tools:
 <div align="center">
-<a href="https://github.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git logo" height="50" /></a>
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git logo" height="50" /></a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Atlassian Jira logo" height="50" /></a>
 <a href="https://www.heroku.com/" target="_blank"><img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku logo" height="50"></a>
 <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon Web Services logo" height="50" /></a>
