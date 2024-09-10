@@ -1,8 +1,5 @@
- 
-![EVanGorkom Static Background](https://github.com/EVanGorkom/EVanGorkom/assets/132889569/31f9ab8a-e670-4d5f-9c8e-5a433d66b78a)
-<!-- <div align=center> 
-<img src="https://github.com/EVanGorkom/red_gif/blob/main/red_dynamic_text.gif" alt="The background is a short video of red lines criss-crossing in the background while the text 'Ethan Van Gorkom, Software Engineer' prints ontop of the video." height="400" />
-</div> -->
+
+![Navy Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/a363cbcb-eae0-4016-be21-d258aac92fcc)
 
 ### About Me:
 Hello there! I'm a Software Engineer who's passionate about using Python with the Django framework for Application Development. I primarily work with Backend systems, but I'm comfortable working in Frontend development as well and am currently learning the one and outs of Typescript.
