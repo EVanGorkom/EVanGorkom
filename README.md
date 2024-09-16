@@ -2,7 +2,7 @@
 ![Navy Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/a363cbcb-eae0-4016-be21-d258aac92fcc)
 
 ### About Me:
-Hello there! I'm a Software Engineer who's passionate about using Python with the Django framework for Application Development. I primarily work with Backend systems, but I'm comfortable working in Frontend development as well and am currently learning the one and outs of Typescript.
+Hello there! I'm a Software Engineer who's passionate about using Python with the Django framework for Application Development. I primarily work with Backend systems, but I'm comfortable working in Frontend development as well and am currently learning the ins and outs of Typescript, while emersing myself in the world of Cyber Security.
 
 Throughout my career, I've always had a strong focus on education and service-oriented work. I have learned a lot from many different fields and have aquired plenty of soft skills to contribute to a team-oriented environment. I'm really excited about finding a collaborative team that values effective communication, critical thinking, and a sense of camaraderie. With a background in Political Science, I believe in the power of teamwork to create stronger communities and now, improved software, for a better future.
  
