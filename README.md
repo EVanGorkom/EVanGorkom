@@ -1,4 +1,4 @@
-
+ 
 ![Navy Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/a363cbcb-eae0-4016-be21-d258aac92fcc)
 
 ### About Me:
@@ -6,7 +6,7 @@ Hello there! I'm a Software Engineer who's passionate about using Python with th
 
 Throughout my career, I've always had a strong focus on education and service-oriented work. I have learned a lot from many different fields and have aquired plenty of soft skills to contribute to a team-oriented environment. I'm really excited about finding a collaborative team that values effective communication, critical thinking, and a sense of camaraderie. With a background in Political Science, I believe in the power of teamwork to create stronger communities and now, improved software, for a better future.
  
-I take a proactive approach to ensure my team's success by constantly reaching out and making sure everyone feels supported. If someone on the team is struggling, I'm always there to find resources and personally assist them in any way I can. As a dedicated learner myself, always looking for opportunities to grow both personally and professionally. Right now, I'm working on and Internship to integrate realtime data with building management systems across college campuses nationwide.
+I take a proactive approach to ensure my team's success by constantly reaching out and making sure everyone feels supported. If someone on the team is struggling, I'm always there to find resources and personally assist them in any way I can. As a dedicated learner myself, always looking for opportunities to grow both personally and professionally. Right now, I'm working on expanding my knowledge of IT basics with local Austin companies to strengthen my understanding of the industry and leverage my current skills to help them improve their current capabilities.
 
 Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
   
