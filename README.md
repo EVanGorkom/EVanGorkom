@@ -28,12 +28,6 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 <a href="https://github.com/Pod-Tracking" target="_blank"><img style="margin: 15px" src="https://avatars.githubusercontent.com/u/160537538?s=200&v=4" alt="Pod Tracking Logo" height="30" /> - Pod Tracking</a>
 </h3>
 
-<!---
-<h3>
-<a href="https://github.com/Market-Next-Door" target="_blank"><img style="margin: 15px" src="https://avatars.githubusercontent.com/u/152336455?s=200&v=4" alt="Market Next Door logo" height="30" /> - Market Next Door</a>
-</h3>
---->
-
 
 ---
 # Tech Stack
