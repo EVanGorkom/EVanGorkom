@@ -38,6 +38,7 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 <a href="https://www.python.org/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python logo" height="55" /></a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img style="margin: 15px" src="https://github.com/EVanGorkom/EVanGorkom/assets/132889569/bbb455d2-6400-48b9-9e1c-0ec97d06e766" alt="Flask logo" height="50" /></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django logo" height="50" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C sharp logo" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript logo" height="50" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" alt="TypeScript logo" height="50" /></a> 
 <a href="https://react.dev/learn" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React logo" height="50" /></a>
@@ -78,7 +79,6 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
   ## Currently Learning:
 <div align="left">
 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C sharp logo" height="50" /></a>
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell logo" height="50" /></a>
 <a href="https://wordpress.org/" target="_blank"><img style="margin: 15px" src="https://github.com/user-attachments/assets/c13e2e4a-33c6-4e94-8565-e1099c02d9bc" alt="WordPress logo" height="50" /></a> 
 <!--- <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" height="50" /></a> --->
