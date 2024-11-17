@@ -17,6 +17,7 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 </a>
 
 ---
+
 # Current Personal Projects
 
 
@@ -30,6 +31,7 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 
 
 ---
+
 # Tech Stack
   ## Languages and Frameworks: 
 <div align="left">
@@ -81,6 +83,7 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell logo" height="50" /></a>
 <a href="https://wordpress.org/" target="_blank"><img style="margin: 15px" src="https://github.com/user-attachments/assets/c13e2e4a-33c6-4e94-8565-e1099c02d9bc" alt="WordPress logo" height="50" /></a> 
+<a href="https://azure.microsoft.com/en-us" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure logo" height="45" /></a> 
 <!--- <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" height="50" /></a> --->
 </div>
 <br/>
@@ -97,7 +100,7 @@ mongoDB        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/ico
 React        *  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   TypeScript *  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 NextJS          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-Node JS         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+Node JS      *  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   Express    
 JAVA            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   Spring        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
