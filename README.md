@@ -20,10 +20,11 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 
 # Current Personal Projects
 
-
+<!---
 <h3>
 <a href="https://github.com/EVanGorkom/weathering-storms" target="_blank"><img style="margin: 15px" src="https://github.com/user-attachments/assets/28835a1a-9198-44ea-a461-d5b1901e2780" alt="Weathering Storms Logo" height="30" /> - Weathering Storms</a>
-</h3>
+</h3> 
+--->
 
 <h3>
 <a href="https://github.com/Pod-Tracking" target="_blank"><img style="margin: 15px" src="https://avatars.githubusercontent.com/u/160537538?s=200&v=4" alt="Pod Tracking Logo" height="30" /> - Pod Tracking</a>
