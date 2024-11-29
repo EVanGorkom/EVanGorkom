@@ -134,7 +134,7 @@ Tailwind        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/ic
 Vitejs          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
 
 
---- -->
+-->
 
 # GitHub Statistics
 <table><tr><td valign="top" width="50%">
