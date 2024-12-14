@@ -25,6 +25,10 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 <a href="https://github.com/Pod-Tracking" target="_blank"><img style="margin: 15px" src="https://avatars.githubusercontent.com/u/160537538?s=200&v=4" alt="Pod Tracking Logo" height="30" /> - Pod Tracking</a>
 </h3>
 
+<h3>
+<a href="https://github.com/EVanGorkom/password_wizard" target="_blank"><img style="margin: 15px" src="https://github.com/user-attachments/assets/82e21c26-761c-4fd6-97c9-ee4235705eb5" alt="Password Wizard Logo" height="30" /> - Password Wizard</a>
+</h3>
+
 
 ---
 
