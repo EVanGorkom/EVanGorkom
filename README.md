@@ -20,7 +20,6 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 
 # Current Personal Projects
 
-
 <h3>
 <a href="https://github.com/Pod-Tracking" target="_blank"><img style="margin: 15px" src="https://avatars.githubusercontent.com/u/160537538?s=200&v=4" alt="Pod Tracking Logo" height="30" /> - Pod Tracking</a>
 </h3>
@@ -28,7 +27,6 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 <h3>
 <a href="https://github.com/EVanGorkom/password_wizard" target="_blank"><img style="margin: 15px" src="https://github.com/user-attachments/assets/82e21c26-761c-4fd6-97c9-ee4235705eb5" alt="Password Wizard Logo" height="30" /> - Password Wizard</a>
 </h3>
-
 
 ---
 
@@ -88,7 +86,6 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 </div>
 <br/>
 
-
 ---
 
 <!-- # Stuff I want to learn:
@@ -136,7 +133,6 @@ React           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/ic
 TypeScript   *  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 Tailwind        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 Vitejs          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-
 
 -->
 
