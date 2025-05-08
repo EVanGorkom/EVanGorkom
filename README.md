@@ -24,6 +24,8 @@ Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 # Current Personal Projects
 
 <h3>
+<!--- <a href="https://github.com/Pod-Tracking" target="_blank"><img style="margin: 15px" src="https://avatars.githubusercontent.com/u/160537538?s=200&v=4" alt="Pod Tracking Logo" height="30" /> - Disc Den</a> --->
+ 
 <a href="https://github.com/Pod-Tracking" target="_blank"><img style="margin: 15px" src="https://avatars.githubusercontent.com/u/160537538?s=200&v=4" alt="Pod Tracking Logo" height="30" /> - Pod Tracking</a>
 </h3>
 
