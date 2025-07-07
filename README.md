@@ -12,7 +12,9 @@ I take a proactive approach to ensure my team's success by constantly reaching o
 
 Feel free to reach out and I would be happy to chat over LinkedIn or Gmail!
 
-<a href="https://evangorkom.github.io/portfolio/" target="_blank"><img src="https://github.com/user-attachments/assets/0d873d3b-a7d4-4dd1-9d4e-db8ca59131b4" alt="portfolio" width="106"></a>
+https://github.com/user-attachments/assets/c0edacd0-877b-48a3-a8a7-a0aa7e6801ba
+
+<a href="https://evangorkom.github.io/portfolio/" target="_blank"><img src="https://github.com/user-attachments/assets/c0edacd0-877b-48a3-a8a7-a0aa7e6801ba" alt="portfolio" width="95"></a>
 <a href="https://linkedin.com/in/EVanGorkom" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <a href="mailto:ethan.vangorkom@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
